@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quadakr&theme=tokyonight"/></a></p>
 
-<p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-stats-eta-two.vercel.app/api/stats/quadakr"/></a></p>
+<!-- <p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-stats-eta-two.vercel.app/api/stats/quadakr"/></a></p> -->
