@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xlebovoz&theme=tokyonight"/></a></p>
+
+<p align="center"><a href="https://github.com/xlebovoz"><img src="https://github-stats-eta-two.vercel.app/api/stats/xlebovoz"/></a></p>
+
+<p align="center"><a href="https://github.com/xlebovoz"><img src="https://www.codewars.com/users/baton%20xleba/badges/large"></a></p>
