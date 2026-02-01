@@ -10,6 +10,6 @@ Cli tools, telegram bots, minimalistic html pages
 [Quarks](https://github.com/quadakr/quarks) - cli tool for real-time generating and sound-outputting white noise depended on user actions (ex. increasing noise volume when user moves a mouse)
 
 ## Fancy commits graph:
-<p align="center"><a href="https://github.com/quadakr"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quadakr&theme=tokyonight"/></a></p>
+<p align="center"><a href="https://github.com/quadakr"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quadakr&theme=light"/></a></p>
 
 <!-- <p align="center"><a href="https://github.com/quadakr"><img src="https://github-stats-eta-two.vercel.app/api/stats/quadakr"/></a></p> -->
