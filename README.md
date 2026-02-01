@@ -5,7 +5,7 @@ Cli tools, telegram bots, minimalistic html pages
 
 ## Released programs:
 
-[Quarkn](https://github.com/quadakr/quarkn) - cli tool for scheduling reminds, or executing commands with timer
+[Quarkn](https://github.com/quadakr/quarkn) - cli tool for scheduling reminds, or executing commands with timer (ex. scheluding timer for 20 minutes that will execute "firefox github.com" and send you "break finished, update your code!" notification)
 
 [Quarks](https://github.com/quadakr/quarks) - cli tool for real-time generating and sound-outputting white noise depended on user actions (ex. increasing noise volume when user moves a mouse)
 
