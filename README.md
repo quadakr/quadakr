@@ -12,4 +12,16 @@ Cli tools, telegram bots, minimalistic html pages
 ## Fancy commits graph:
 <p align="center"><a href="https://github.com/quadakr"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quadakr&theme=dark"/></a></p>
 
+## So, tools I use/exprienced with:
+
+<div tool_images style="display: flex;
+  justify-content: flex-end;
+  gap: 1000px;"> 
+<img src="https://zed.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_icon.d67dc948.webp&w=384&q=100" width="100px" height="100px" />
+<img src="https://gcc.gnu.org/img/gccegg-65.png" width="100px" height="100px" />
+<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxj7kCzMIlSC20SNjaJf9GmG15ocnF.zbBRgxMSlB7Ejh6FbgNzxLvZOoW7N3ML56fn3m5Z4MO.M8pYrCFVKIhqM-&format=source" width="100px" height="100px" />
+<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBR1mpxxSHRjAeQKNY.14SpGglSw9Q_T17Vj6iz5SLNOCf__D3E7g2HXS_dGjwUnSQiy8CMy2I7RwP_CyVWBj74g-&format=source" width="100px" height="100px" />
+<img src="https://avatars.githubusercontent.com/u/426196?s=200&v=4" width="100px" height="100px" />
+</div>
+
 <!-- <p align="center"><a href="https://github.com/quadakr"><img src="https://github-stats-eta-two.vercel.app/api/stats/quadakr"/></a></p> -->
