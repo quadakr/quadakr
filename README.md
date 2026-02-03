@@ -22,7 +22,7 @@ Cli tools, telegram bots, minimalistic html pages
 </div>
 
 ## Fancy commits graph:
-<p align="center"><a href="https://github.com/quadakr"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quadakr&theme=dark"/></a></p>
+<p align="left" ><a href="https://github.com/quadakr"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quadakr&theme=dark"/></a></p>
 
 
 <!-- <p align="center"><a href="https://github.com/quadakr"><img src="https://github-stats-eta-two.vercel.app/api/stats/quadakr"/></a></p> -->
