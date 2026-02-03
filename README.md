@@ -9,9 +9,6 @@ Cli tools, telegram bots, minimalistic html pages
 
 [Quarks](https://github.com/quadakr/quarks) - cli tool for real-time generating and sound-outputting white noise depended on user actions (ex. increasing noise volume when user moves a mouse)
 
-## Fancy commits graph:
-<p align="center"><a href="https://github.com/quadakr"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quadakr&theme=dark"/></a></p>
-
 ## Tools I use/exprienced with:
 
 <div tool_images style="display: flex;
@@ -23,5 +20,9 @@ Cli tools, telegram bots, minimalistic html pages
 <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBR1mpxxSHRjAeQKNY.14SpGglSw9Q_T17Vj6iz5SLNOCf__D3E7g2HXS_dGjwUnSQiy8CMy2I7RwP_CyVWBj74g-&format=source" width="100px" height="100px" />
 <img src="https://avatars.githubusercontent.com/u/426196?s=200&v=4" width="100px" height="100px" />
 </div>
+
+## Fancy commits graph:
+<p align="center"><a href="https://github.com/quadakr"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quadakr&theme=dark"/></a></p>
+
 
 <!-- <p align="center"><a href="https://github.com/quadakr"><img src="https://github-stats-eta-two.vercel.app/api/stats/quadakr"/></a></p> -->
