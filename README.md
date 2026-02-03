@@ -12,7 +12,7 @@ Cli tools, telegram bots, minimalistic html pages
 ## Fancy commits graph:
 <p align="center"><a href="https://github.com/quadakr"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quadakr&theme=dark"/></a></p>
 
-## So, tools I use/exprienced with:
+## Tools I use/exprienced with:
 
 <div tool_images style="display: flex;
   justify-content: flex-end;
