@@ -9,7 +9,7 @@ Cli tools, telegram bots, minimalistic html pages
 
 [Quarks](https://github.com/quadakr/quarks) - cli tool for real-time generating and sound-outputting white noise depended on user actions (ex. increasing noise volume when user moves a mouse)
 
-## Tools I use/exprienced with:
+## Tools I exprienced with:
 
 <div tool_images style="display: flex;
   justify-content: flex-end;
