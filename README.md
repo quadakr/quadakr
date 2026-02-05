@@ -21,14 +21,14 @@ Cli tools, telegram bots, minimalistic html pages
        alt="Zed code editor">
 </a>
 
-<a href="https://gcc.gnu.org" target="_blank">
-  <img src="https://gcc.gnu.org/img/gccegg-65.png"
-       width="100" height="100" alt="GCC">
-</a>
-
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxj7kCzMIlSC20SNjaJf9GmG15ocnF.zbBRgxMSlB7Ejh6FbgNzxLvZOoW7N3ML56fn3m5Z4MO.M8pYrCFVKIhqM-&format=source"
        width="100" height="100" alt="Python">
+</a>
+
+<a href="https://gcc.gnu.org" target="_blank">
+  <img src="https://gcc.gnu.org/img/gccegg-65.png"
+       width="100" height="100" alt="GCC">
 </a>
 
 <a href="https://www.arduino.cc/en/software/" target="_blank">
