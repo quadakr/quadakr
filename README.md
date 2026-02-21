@@ -1,7 +1,7 @@
 
 ## Specialization:
 
-#### Cli tools, telegram bots, minimalistic html pages
+#### Cli tools, minimalistic html pages and telegram bots
 
 ## Released programs:
 
