@@ -9,7 +9,7 @@
 
 [Quarks](https://github.com/quadakr/quarks) - cli tool for real-time generating and sound-outputting white noise depended on user actions (ex. increasing noise volume when user moves a mouse)
 
-## Tools I exprienced with:
+## Tools I exprienced with (yes i won't fix that it's incorrectly positioned):
 
 <div tool_images style="display: flex;
   justify-content: flex-end;
